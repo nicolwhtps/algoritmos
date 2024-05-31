@@ -19,10 +19,6 @@ public class Act45{
 			System.out.println("El numero "+numeroaSociado+" de socio que usted ingreso le pertenece a "+ nombre [i]+".");
 		    break;
 			}	    
-	}
-		for (String nombre1 : nombre) {
-			System.out.println(nombre1);
-			Thread.sleep(1000);
-		}
+	}	
 }
 }	

@@ -1,4 +1,0 @@
-
-enum Act_enum {
-
-}

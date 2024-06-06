@@ -24,6 +24,6 @@ public class Act46{
 		if (numnombre!=-1) {
 				String pp = nombre[numnombre]; 
 					System.out.println("El numero "+numSocio+" de socio que usted ingreso le pertenece a "+pp+".");
-				}
+			}
 		}	
 	}

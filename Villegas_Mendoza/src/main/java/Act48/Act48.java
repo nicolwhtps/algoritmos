@@ -21,8 +21,6 @@ public class Act48 {
 		for (String apellido1 : apellido) {
 			System.out.println(apellido1);
 			 Thread.sleep(1000);
-		}
-	
-		
+		}	
 }
 }

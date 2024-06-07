@@ -15,6 +15,7 @@ public class act49 {
 		
 		for(int i=0; i<Dni.length; i++) {
 			Arrays[i] = Integer.parseInt(Dni[i]);
+			
 		}
 	}
 }

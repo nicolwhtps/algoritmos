@@ -3,7 +3,7 @@ package Act45;
 import java.util.Scanner;
 
 public class Act45{
-	public static void main(String[] args) throws InterruptedException{
+	public static void main(String[] args){
 		Scanner datos = new Scanner(System.in);
 		
 		int [] num= {1011, 2367, 8748, 9121, 817, 6423, 2034};
